@@ -6,7 +6,8 @@ padding: 0;
 
 margin: 0;
 
-} body {
+}
+body {
 
 width: 100vw;
 
@@ -26,7 +27,7 @@ button:hover {
 
  cursor: pointer;
 
-background-color: #73E831;
+ background-color: #73E831;
 
 }
 
